@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "617db23b689193ad",
+        "id": "45cc22e195de4b80",
         "type": "tabs",
         "children": [
           {
-            "id": "ec1fa3301768af82",
+            "id": "76d276b9c42b707e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6-27-24.md",
+                "file": "7-2-24.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6-27-24.md",
+                "file": "7-2-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6-27-24.md",
+                "file": "7-2-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6-27-24.md"
+                "file": "7-2-24.md"
               }
             }
           }
@@ -146,11 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec1fa3301768af82",
+  "active": "76d276b9c42b707e",
   "lastOpenFiles": [
-    "6-25-24.md",
     "6-27-24.md",
+    "6-25-24.md",
     "Important Dates.md",
+    "7-2-24.md",
+    "Pasted image 20240702134105.png",
+    "Pasted image 20240702134050.png",
+    "Pasted image 20240702134010.png",
+    "Pasted image 20240702133943.png",
     "Pasted image 20240625130711.png",
     "Welcome.md"
   ]
